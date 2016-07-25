@@ -222,7 +222,7 @@ export const makeConfig = (config = {}) => {
 manager available for React that allows you to manage all of your definitions
 and changes to your documents head with support for
 _document title, meta, link, script, and base tags._
-It's like ``react-document-title`` but on steroid.
+It's like ``react-document-title`` but on steroids.
 
 The default boilerplate uses ``react-helmet`` in several places
 (look for ``<Helmet`` usage).
